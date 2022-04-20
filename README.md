@@ -1,2 +1,2 @@
 # ecash
-Implementation of the crypto foundation of an e-cash system to create a central bank digital currency (CBDC).
+Implementation of the cryptographic foundation of an e-cash system to create a (private) central bank digital currency (CBDC).
